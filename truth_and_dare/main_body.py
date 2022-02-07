@@ -7,4 +7,5 @@ we hope you enjoy
 ragards
 Leaf Green'''
 name=str(input("sir can we know ur name !!!")
+ print("hello",name,"the rules are simple you just have to tell 3 or 2 or 1 numbers simultaneously,you will")
 

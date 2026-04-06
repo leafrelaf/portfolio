@@ -2,7 +2,7 @@
 
 Welcome to my portfolio.
 
-I’m a Computer Science student with a strong interest in building efficient and practical software systems.
+I’m a Mechanical engineering student with a strong interest in building efficient and practical software systems.
 I focus on writing clean, maintainable code and continuously improving my problem-solving ability.
 
 My journey in tech started with curiosity about how systems work.
